@@ -1,8 +1,5 @@
 # Game_of_file-Tedom_Stive-CDOF2
 The famous game by mathematician John Horton Conway. To make it console based, you can use spaces for dead cells and # for live cells.
-# Game_of_file-Tedom_Stive-CDOF2
-The famous game by mathematician John Horton Conway. To make it console based, you can use spaces for dead cells and # for live cells.
-# Game of Life Project
 
 ### Game of Life Overview:
 Objective:
@@ -52,19 +49,4 @@ The simulation stops after a specified number of generations.
 Project Objective:
 The objective of this project is to create a console-based implementation of the Game of Life using Python. It aims to provide a functional and well-documented open-source project that others can easily understand, contribute to, and run on their machines. The use of a clear setup file (setup.py) and a chosen license (MIT) promotes good project management and collaboration within the open-source community.
 
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/game-of-life.git
 
-## How to Run the Project
-### Follow these steps to run the Game of Life on your machine:
-
-### Clone the Repository:
-git clone https://github.com/your-username/game-of-life.git
-### Navigate to the Project Directory:
-
-cd game-of-life
-### Run the Game of Life:
-
-python game_of_life.p
