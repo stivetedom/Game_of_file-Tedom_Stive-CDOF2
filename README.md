@@ -50,3 +50,27 @@ Project Objective:
 The objective of this project is to create a console-based implementation of the Game of Life using Python. It aims to provide a functional and well-documented open-source project that others can easily understand, contribute to, and run on their machines. The use of a clear setup file (setup.py) and a chosen license (MIT) promotes good project management and collaboration within the open-source community.
 
 
+## How to Run the Project
+### Follow these steps to run the Game of Life on your machine:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/game-of-life.git
+```
+
+2. Navigate to the Project Directory:
+``bash
+cd game-of-life
+```
+3. Installation
+Install package with pip
+```bash
+    pip import random
+    pip import time
+    pip import os
+
+```
+
+4. Run the Game of Life:
+``bash
+python game_of_life.p
+```
