@@ -71,6 +71,6 @@ Install package with pip
 ```
 
 4. Run the Game of Life:
-``bash
+```bash
 python game_of_life.p
 ```
