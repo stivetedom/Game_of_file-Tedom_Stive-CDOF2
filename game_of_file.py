@@ -32,8 +32,8 @@ def update_board(board):
     return new_board
 
 def main():
-    rows = 10
-    cols = 20
+    rows = 40
+    cols = 60
     generations = 50
 
     board = initialize_board(rows, cols)
